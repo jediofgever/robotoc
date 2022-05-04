@@ -1,0 +1,16 @@
+<map id="robotoc::CostFunctionComponentBase" name="robotoc::CostFunctionComponentBase">
+<area shape="rect" id="node1" title="Base class of components of cost function." alt="" coords="5,355,249,381"/>
+<area shape="rect" id="node2" href="$classrobotoc_1_1_co_m_cost.html" title="Cost on the position of the center of mass." alt="" coords="344,5,469,32"/>
+<area shape="rect" id="node3" href="$classrobotoc_1_1_configuration_space_cost.html" title="Configuration space cost." alt="" coords="301,56,512,83"/>
+<area shape="rect" id="node4" href="$classrobotoc_1_1_local_contact_force_cost.html" title="Cost on the contact forces expressed in the local frames." alt="" coords="303,107,511,133"/>
+<area shape="rect" id="node5" href="$classrobotoc_1_1_multi_mode_configuration_space_cost.html" title="Multi&#45;mode configuration space cost." alt="" coords="303,158,510,199"/>
+<area shape="rect" id="node6" href="$classrobotoc_1_1_multi_mode_task_space3_d_cost.html" title="Multi&#45;mode cost on the task space position." alt="" coords="305,223,509,265"/>
+<area shape="rect" id="node7" href="$classrobotoc_1_1_multi_mode_task_space6_d_cost.html" title="Cost on the task space placement (SE(3))." alt="" coords="305,289,509,330"/>
+<area shape="rect" id="node8" href="$classrobotoc_1_1_swing_foot_cost.html" title="Cost on the swing foot position." alt="" coords="327,355,487,381"/>
+<area shape="rect" id="node9" href="$classrobotoc_1_1_task_space3_d_cost.html" title="Cost on the task space position." alt="" coords="317,405,497,432"/>
+<area shape="rect" id="node10" href="$classrobotoc_1_1_task_space6_d_cost.html" title="Cost on the task space placement (SE(3))." alt="" coords="317,456,497,483"/>
+<area shape="rect" id="node11" href="$classrobotoc_1_1_time_varying_co_m_cost.html" title="Cost on the time&#45;varying position of the center of mass." alt="" coords="308,507,505,533"/>
+<area shape="rect" id="node12" href="$classrobotoc_1_1_time_varying_configuration_space_cost.html" title="Cost on the time&#45;varying configuration." alt="" coords="297,558,516,599"/>
+<area shape="rect" id="node13" href="$classrobotoc_1_1_time_varying_task_space3_d_cost.html" title="Cost on the time&#45;varying task space position." alt="" coords="321,623,493,665"/>
+<area shape="rect" id="node14" href="$classrobotoc_1_1_time_varying_task_space6_d_cost.html" title="Cost on the time&#45;varying task space placement." alt="" coords="321,689,493,730"/>
+</map>

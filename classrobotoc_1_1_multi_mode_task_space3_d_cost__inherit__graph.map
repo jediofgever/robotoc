@@ -1,0 +1,4 @@
+<map id="robotoc::MultiModeTaskSpace3DCost" name="robotoc::MultiModeTaskSpace3DCost">
+<area shape="rect" id="node1" title="Multi&#45;mode cost on the task space position." alt="" coords="25,80,229,121"/>
+<area shape="rect" id="node2" href="$classrobotoc_1_1_cost_function_component_base.html" title="Base class of components of cost function." alt="" coords="5,5,249,32"/>
+</map>

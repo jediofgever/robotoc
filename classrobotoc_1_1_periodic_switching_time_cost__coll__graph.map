@@ -1,0 +1,4 @@
+<map id="robotoc::PeriodicSwitchingTimeCost" name="robotoc::PeriodicSwitchingTimeCost">
+<area shape="rect" id="node1" title="Cost on the deviation from the periodic reference switching time." alt="" coords="5,95,180,136"/>
+<area shape="rect" id="node2" href="$classrobotoc_1_1_s_t_o_cost_function_component_base.html" title="Base class of components of the cost function of the switching time optimization (STO) problem." alt="" coords="5,5,180,47"/>
+</map>

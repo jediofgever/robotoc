@@ -1,0 +1,13 @@
+<map id="robotoc::ConstraintComponentBase" name="robotoc::ConstraintComponentBase">
+<area shape="rect" id="node1" title="Base class for constraint components." alt="" coords="5,293,232,320"/>
+<area shape="rect" id="node2" href="$classrobotoc_1_1_friction_cone.html" title="Constraint on the inner&#45;approximated firction cone." alt="" coords="302,5,446,32"/>
+<area shape="rect" id="node3" href="$classrobotoc_1_1_joint_acceleration_lower_limit.html" title="Constraint on the lower limits of the joint acceleration." alt="" coords="289,57,459,98"/>
+<area shape="rect" id="node4" href="$classrobotoc_1_1_joint_acceleration_upper_limit.html" title="Constraint on the upper limits of the joint acceleration." alt="" coords="289,122,459,163"/>
+<area shape="rect" id="node5" href="$classrobotoc_1_1_joint_position_lower_limit.html" title="Constraint on the lower limits of the joint position." alt="" coords="283,187,465,229"/>
+<area shape="rect" id="node6" href="$classrobotoc_1_1_joint_position_upper_limit.html" title="Constraint on the upper limits of the joint position." alt="" coords="283,253,465,294"/>
+<area shape="rect" id="node7" href="$classrobotoc_1_1_joint_torques_lower_limit.html" title="Constraint on the lower limits of the joint torques." alt="" coords="283,318,465,359"/>
+<area shape="rect" id="node8" href="$classrobotoc_1_1_joint_torques_upper_limit.html" title="Constraint on the upper limits of the joint torques." alt="" coords="283,383,465,425"/>
+<area shape="rect" id="node9" href="$classrobotoc_1_1_joint_velocity_lower_limit.html" title="Constraint on the lower limits of the joint velocity." alt="" coords="283,449,465,490"/>
+<area shape="rect" id="node10" href="$classrobotoc_1_1_joint_velocity_upper_limit.html" title="Constraint on the upper limits of the joint velocity." alt="" coords="284,514,464,555"/>
+<area shape="rect" id="node11" href="$classrobotoc_1_1_wrench_friction_cone.html" title="Constraint on the wrench firction cone for surface contacts." alt="" coords="280,580,468,607"/>
+</map>

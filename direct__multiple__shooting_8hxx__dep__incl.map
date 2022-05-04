@@ -1,0 +1,11 @@
+<map id="/github/workspace/include/robotoc/ocp/direct_multiple_shooting.hxx" name="/github/workspace/include/robotoc/ocp/direct_multiple_shooting.hxx">
+<area shape="rect" id="node1" title=" " alt="" coords="513,5,695,61"/>
+<area shape="rect" id="node2" href="$direct__multiple__shooting_8hpp.html" title=" " alt="" coords="513,109,695,165"/>
+<area shape="rect" id="node3" href="$ocp__solver_8hpp.html" title=" " alt="" coords="505,213,703,255"/>
+<area shape="rect" id="node4" href="$mpc__biped__walk_8hpp.html" title=" " alt="" coords="5,303,179,359"/>
+<area shape="rect" id="node5" href="$mpc__crawl_8hpp.html" title=" " alt="" coords="203,310,392,351"/>
+<area shape="rect" id="node6" href="$mpc__flying__trot_8hpp.html" title=" " alt="" coords="416,303,589,359"/>
+<area shape="rect" id="node7" href="$mpc__jump_8hpp.html" title=" " alt="" coords="613,310,800,351"/>
+<area shape="rect" id="node8" href="$mpc__pace_8hpp.html" title=" " alt="" coords="824,310,1011,351"/>
+<area shape="rect" id="node9" href="$mpc__trot_8hpp.html" title=" " alt="" coords="1035,310,1213,351"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classrobotoc_1_1_time_varying_task_space3_d_ref_base.html" title="Base class of time&#45;varying reference of task space position." alt="" coords="5,71,177,112"/>
+<area shape="rect" id="node2" href="$classrobotoc_1_1_discrete_time_swing_foot_ref.html" title="Discrete&#45;time reference of the positions of swinging contact frames." alt="" coords="232,5,416,47"/>
+<area shape="rect" id="node3" href="$classrobotoc_1_1_m_p_c_periodic_swing_foot_ref.html" title="Periodic reference of the foot position." alt="" coords="233,71,415,112"/>
+<area shape="rect" id="node4" href="$classrobotoc_1_1_periodic_foot_track_ref.html" title="Periodic reference of the foot position." alt="" coords="225,137,423,163"/>
+</map>

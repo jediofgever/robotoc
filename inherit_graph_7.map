@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classrobotoc_1_1_contact_planner_base.html" title="Base interface of contact planners." alt="" coords="5,159,196,186"/>
+<area shape="rect" id="node2" href="$classrobotoc_1_1_biped_walk_foot_step_planner.html" title="Foot step planner for the biped robot walk." alt="" coords="251,5,438,47"/>
+<area shape="rect" id="node3" href="$classrobotoc_1_1_crawl_foot_step_planner.html" title="Foot step planner for the crawl gait of quadrupeds." alt="" coords="244,71,445,98"/>
+<area shape="rect" id="node4" href="$classrobotoc_1_1_flying_trot_foot_step_planner.html" title="Foot step planner for the flying trot gait of quadrupeds." alt="" coords="254,123,435,164"/>
+<area shape="rect" id="node5" href="$classrobotoc_1_1_jump_foot_step_planner.html" title="Foot step planner for the jump motion." alt="" coords="245,189,445,215"/>
+<area shape="rect" id="node6" href="$classrobotoc_1_1_pace_foot_step_planner.html" title="Foot step planner for the pace gait of quadrupeds." alt="" coords="245,239,444,266"/>
+<area shape="rect" id="node7" href="$classrobotoc_1_1_trot_foot_step_planner.html" title="Foot step planner for the trot gait of quadrupeds." alt="" coords="249,290,440,317"/>
+</map>

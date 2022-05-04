@@ -1,0 +1,4 @@
+<map id="robotoc::SwingFootRefBase" name="robotoc::SwingFootRefBase">
+<area shape="rect" id="node1" title="Base class of reference position of the swing foot." alt="" coords="5,5,188,32"/>
+<area shape="rect" id="node2" href="$classrobotoc_1_1_trot_swing_foot_ref.html" title="Periodic reference of the foot position." alt="" coords="9,80,185,107"/>
+</map>

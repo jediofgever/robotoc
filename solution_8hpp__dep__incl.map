@@ -1,0 +1,17 @@
+<map id="/github/workspace/include/robotoc/ocp/solution.hpp" name="/github/workspace/include/robotoc/ocp/solution.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="861,5,1035,47"/>
+<area shape="rect" id="node2" href="$line__search_8hpp.html" title=" " alt="" coords="529,95,703,151"/>
+<area shape="rect" id="node3" href="$ocp__solver_8hpp.html" title=" " alt="" coords="505,206,703,247"/>
+<area shape="rect" id="node10" href="$unconstr__line__search_8hpp.html" title=" " alt="" coords="986,95,1179,151"/>
+<area shape="rect" id="node11" href="$unconstr__ocp__solver_8hpp.html" title=" " alt="" coords="935,199,1108,255"/>
+<area shape="rect" id="node12" href="$unconstr__parnmpc__solver_8hpp.html" title=" " alt="" coords="1132,199,1305,255"/>
+<area shape="rect" id="node13" href="$direct__multiple__shooting_8hpp.html" title=" " alt="" coords="727,95,910,151"/>
+<area shape="rect" id="node15" href="$unconstr__backward__correction_8hpp.html" title=" " alt="" coords="1255,95,1433,151"/>
+<area shape="rect" id="node4" href="$mpc__biped__walk_8hpp.html" title=" " alt="" coords="5,303,179,359"/>
+<area shape="rect" id="node5" href="$mpc__crawl_8hpp.html" title=" " alt="" coords="203,310,392,351"/>
+<area shape="rect" id="node6" href="$mpc__flying__trot_8hpp.html" title=" " alt="" coords="416,303,589,359"/>
+<area shape="rect" id="node7" href="$mpc__jump_8hpp.html" title=" " alt="" coords="613,310,800,351"/>
+<area shape="rect" id="node8" href="$mpc__pace_8hpp.html" title=" " alt="" coords="824,310,1011,351"/>
+<area shape="rect" id="node9" href="$mpc__trot_8hpp.html" title=" " alt="" coords="1035,310,1213,351"/>
+<area shape="rect" id="node14" href="$direct__multiple__shooting_8hxx.html" title=" " alt="" coords="727,199,910,255"/>
+</map>

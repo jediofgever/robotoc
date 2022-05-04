@@ -1,0 +1,4 @@
+<map id="robotoc::ConfigurationSpaceCost" name="robotoc::ConfigurationSpaceCost">
+<area shape="rect" id="node1" title="Configuration space cost." alt="" coords="22,80,233,107"/>
+<area shape="rect" id="node2" href="$classrobotoc_1_1_cost_function_component_base.html" title="Base class of components of cost function." alt="" coords="5,5,249,32"/>
+</map>

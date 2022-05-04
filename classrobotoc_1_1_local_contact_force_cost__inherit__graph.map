@@ -1,0 +1,4 @@
+<map id="robotoc::LocalContactForceCost" name="robotoc::LocalContactForceCost">
+<area shape="rect" id="node1" title="Cost on the contact forces expressed in the local frames." alt="" coords="23,80,231,107"/>
+<area shape="rect" id="node2" href="$classrobotoc_1_1_cost_function_component_base.html" title="Base class of components of cost function." alt="" coords="5,5,249,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="robotoc::SolverOptions" name="robotoc::SolverOptions">
+<area shape="rect" id="node1" title="Options of optimal control solvers." alt="" coords="21,95,175,121"/>
+<area shape="rect" id="node2" href="$classrobotoc_1_1_line_search_settings.html" title="Settings for the line search." alt="" coords="5,5,191,32"/>
+</map>

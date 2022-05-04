@@ -1,0 +1,27 @@
+var classrobotoc_1_1_m_p_c_flying_trot =
+[
+    [ "MPCFlyingTrot", "classrobotoc_1_1_m_p_c_flying_trot.html#a3b3fc3ab20b129086e10f2d2dbed0e3e", null ],
+    [ "MPCFlyingTrot", "classrobotoc_1_1_m_p_c_flying_trot.html#a60f3e56a02c3b59a7ea4f61d015b80d8", null ],
+    [ "~MPCFlyingTrot", "classrobotoc_1_1_m_p_c_flying_trot.html#afc23cd673c5505a890f36dfccbacad13", null ],
+    [ "MPCFlyingTrot", "classrobotoc_1_1_m_p_c_flying_trot.html#ac89aac103eb36aa71b2ea37a828dd0db", null ],
+    [ "MPCFlyingTrot", "classrobotoc_1_1_m_p_c_flying_trot.html#a91a09f83b923abf1be96d16cba2c2000", null ],
+    [ "getBaseRotationCostHandle", "classrobotoc_1_1_m_p_c_flying_trot.html#ae3b5dedc0b244c577646f597fe708e97", null ],
+    [ "getCoMCostHandle", "classrobotoc_1_1_m_p_c_flying_trot.html#a1656c96eece2edba08fcdda76efcbac9", null ],
+    [ "getConfigCostHandle", "classrobotoc_1_1_m_p_c_flying_trot.html#ab825b0af6af2f487a8b7ae00b3b492fb", null ],
+    [ "getConstraintsHandle", "classrobotoc_1_1_m_p_c_flying_trot.html#ad43ab20659888792fab2b9b50829d6a4", null ],
+    [ "getContactSequenceHandle", "classrobotoc_1_1_m_p_c_flying_trot.html#ae946274960024ca929f8e9bd169e2d96", null ],
+    [ "getCostHandle", "classrobotoc_1_1_m_p_c_flying_trot.html#aeed6510bec1df4cdac0f459f9715abc1", null ],
+    [ "getFrictionConeHandle", "classrobotoc_1_1_m_p_c_flying_trot.html#af1f2f9d62b0fb0a6c3f6fcdf693e5263", null ],
+    [ "getInitialControlInput", "classrobotoc_1_1_m_p_c_flying_trot.html#a0bcba6a57042cc55662f9e3453903552", null ],
+    [ "getLQRPolicy", "classrobotoc_1_1_m_p_c_flying_trot.html#a8152090d5042bd73786e42d63d3cc62e", null ],
+    [ "getSolution", "classrobotoc_1_1_m_p_c_flying_trot.html#a6b1b9bacfc79f3291b720a90de02c217", null ],
+    [ "getSwingFootCostHandle", "classrobotoc_1_1_m_p_c_flying_trot.html#a28c3415afcffd3cb53a5972721f9ae50", null ],
+    [ "init", "classrobotoc_1_1_m_p_c_flying_trot.html#ab7b4fa67fde5d20abd9c91f83fbbafbc", null ],
+    [ "KKTError", "classrobotoc_1_1_m_p_c_flying_trot.html#adbea8dc74661c8c5307cf1472d2fea14", null ],
+    [ "KKTError", "classrobotoc_1_1_m_p_c_flying_trot.html#a2af914f531299cdbb694b6a2b7dfabd0", null ],
+    [ "operator=", "classrobotoc_1_1_m_p_c_flying_trot.html#a021b37c8c482ac093630901f4400dade", null ],
+    [ "operator=", "classrobotoc_1_1_m_p_c_flying_trot.html#af29544a63a07ce8e5ec18fa37ce0cb9c", null ],
+    [ "setGaitPattern", "classrobotoc_1_1_m_p_c_flying_trot.html#a8f83da36ebb6471f94e4c6fd8a0be84b", null ],
+    [ "setSolverOptions", "classrobotoc_1_1_m_p_c_flying_trot.html#a611ef118fd511efef37d9930c1620c26", null ],
+    [ "updateSolution", "classrobotoc_1_1_m_p_c_flying_trot.html#af648a1d8f92e9767ac7b76d33c14e0b0", null ]
+];

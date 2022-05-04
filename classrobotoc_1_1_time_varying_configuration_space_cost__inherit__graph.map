@@ -1,0 +1,4 @@
+<map id="robotoc::TimeVaryingConfigurationSpaceCost" name="robotoc::TimeVaryingConfigurationSpaceCost">
+<area shape="rect" id="node1" title="Cost on the time&#45;varying configuration." alt="" coords="18,80,237,121"/>
+<area shape="rect" id="node2" href="$classrobotoc_1_1_cost_function_component_base.html" title="Base class of components of cost function." alt="" coords="5,5,249,32"/>
+</map>

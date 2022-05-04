@@ -1,0 +1,5 @@
+<map id="robotoc::ImpulseConstraintComponentBase" name="robotoc::ImpulseConstraintComponentBase">
+<area shape="rect" id="node1" title="Base class for impulse constraint components." alt="" coords="131,5,307,47"/>
+<area shape="rect" id="node2" href="$classrobotoc_1_1_impulse_friction_cone.html" title="Constraint on the inner&#45;approximated impulse firction cone." alt="" coords="5,95,196,121"/>
+<area shape="rect" id="node3" href="$classrobotoc_1_1_impulse_wrench_friction_cone.html" title="Constraint on the wrench firction cone for surface contacts." alt="" coords="221,95,455,121"/>
+</map>

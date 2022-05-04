@@ -1,0 +1,26 @@
+var classrobotoc_1_1_solver_options =
+[
+    [ "SolverOptions", "classrobotoc_1_1_solver_options.html#a76e79dc1f24dfe5c3d7368241dc8d817", null ],
+    [ "~SolverOptions", "classrobotoc_1_1_solver_options.html#a612916ad26d5501adf5fe1a2c4eefd9a", null ],
+    [ "SolverOptions", "classrobotoc_1_1_solver_options.html#ad0b8144636265477dedacc1487cf9040", null ],
+    [ "SolverOptions", "classrobotoc_1_1_solver_options.html#a0540474771f30ff7b83b41f6e1d6b049", null ],
+    [ "disp", "classrobotoc_1_1_solver_options.html#a74c6d0d0a45514d43e0a872b59fbdbe4", null ],
+    [ "operator=", "classrobotoc_1_1_solver_options.html#a608f237a2a39365d13b48400a8caaab1", null ],
+    [ "operator=", "classrobotoc_1_1_solver_options.html#a062bd2dc80acf0b060cf78b774a80305", null ],
+    [ "operator<<", "classrobotoc_1_1_solver_options.html#a41c7590ef7288fce073b779a2d44562d", null ],
+    [ "discretization_method", "classrobotoc_1_1_solver_options.html#a58c077ec04a8ced57efdade27ed026ec", null ],
+    [ "enable_line_search", "classrobotoc_1_1_solver_options.html#a4a7f87a617838df15b7e7b57bf785421", null ],
+    [ "initial_sto_reg", "classrobotoc_1_1_solver_options.html#ad64f088a7d4799fc6b988e583eb1b5b5", null ],
+    [ "initial_sto_reg_iter", "classrobotoc_1_1_solver_options.html#ae56bc4480edd4e7519990b92dbb1a074", null ],
+    [ "kkt_tol", "classrobotoc_1_1_solver_options.html#a23fdd222df0d9d527d384068bce97177", null ],
+    [ "kkt_tol_mesh", "classrobotoc_1_1_solver_options.html#aa89c11a871791dd29394cfc066dbf202", null ],
+    [ "kkt_tol_mu", "classrobotoc_1_1_solver_options.html#aa466373a802f1b7498dc7b9d4aab096d", null ],
+    [ "line_search_settings", "classrobotoc_1_1_solver_options.html#ab7dac60e437faf7627d96794b9ebeb18", null ],
+    [ "max_dt_mesh", "classrobotoc_1_1_solver_options.html#ae9d6690717b637ad42aa23d350c9bc53", null ],
+    [ "max_dts_riccati", "classrobotoc_1_1_solver_options.html#a4f27b92409e65b6427d8b9b2d306ede6", null ],
+    [ "max_iter", "classrobotoc_1_1_solver_options.html#a7648e5a3e385ebab72942dd56b0249f0", null ],
+    [ "mu_init", "classrobotoc_1_1_solver_options.html#a18fef10cb7ccfc6930990a1a84551c76", null ],
+    [ "mu_linear_decrease_factor", "classrobotoc_1_1_solver_options.html#a87d5b339ff2d41640fac6bc34e91c204", null ],
+    [ "mu_min", "classrobotoc_1_1_solver_options.html#a8398935b7d63d998cdac7554d21a8c71", null ],
+    [ "mu_superlinear_decrease_power", "classrobotoc_1_1_solver_options.html#a14a37ea7358a4e4328ac19c24af8de19", null ]
+];

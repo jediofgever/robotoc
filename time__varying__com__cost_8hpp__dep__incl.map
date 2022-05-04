@@ -1,0 +1,11 @@
+<map id="/github/workspace/include/robotoc/cost/time_varying_com_cost.hpp" name="/github/workspace/include/robotoc/cost/time_varying_com_cost.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="439,5,614,61"/>
+<area shape="rect" id="node2" href="$discrete__time__com__ref_8hpp.html" title=" " alt="" coords="5,109,179,165"/>
+<area shape="rect" id="node3" href="$periodic__com__ref_8hpp.html" title=" " alt="" coords="203,109,376,165"/>
+<area shape="rect" id="node4" href="$mpc__biped__walk_8hpp.html" title=" " alt="" coords="132,213,305,269"/>
+<area shape="rect" id="node5" href="$mpc__crawl_8hpp.html" title=" " alt="" coords="329,221,519,262"/>
+<area shape="rect" id="node6" href="$mpc__flying__trot_8hpp.html" title=" " alt="" coords="543,213,716,269"/>
+<area shape="rect" id="node7" href="$mpc__pace_8hpp.html" title=" " alt="" coords="740,221,927,262"/>
+<area shape="rect" id="node8" href="$mpc__periodic__com__ref_8hpp.html" title=" " alt="" coords="501,109,680,165"/>
+<area shape="rect" id="node9" href="$mpc__trot_8hpp.html" title=" " alt="" coords="951,221,1129,262"/>
+</map>

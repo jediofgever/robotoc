@@ -1,0 +1,82 @@
+<map id="/github/workspace/include/robotoc/impulse/impulse_split_ocp.hpp" name="/github/workspace/include/robotoc/impulse/impulse_split_ocp.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2863,5,3036,61"/>
+<area shape="rect" id="node2" title=" " alt="" coords="2022,213,2090,240"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5037,987,5123,1013"/>
+<area shape="rect" id="node4" href="$robot_8hpp.html" title=" " alt="" coords="3528,607,3683,634"/>
+<area shape="rect" id="node31" href="$impulse__status_8hpp.html" title=" " alt="" coords="1685,697,1832,738"/>
+<area shape="rect" id="node42" href="$impulse__split__solution_8hpp.html" title=" " alt="" coords="2361,310,2524,351"/>
+<area shape="rect" id="node43" href="$impulse__split__direction_8hpp.html" title=" " alt="" coords="3224,407,3387,448"/>
+<area shape="rect" id="node46" href="$split__direction_8hpp.html" title=" " alt="" coords="2038,511,2237,537"/>
+<area shape="rect" id="node50" href="$impulse__split__kkt__residual_8hpp.html" title=" " alt="" coords="3055,310,3217,351"/>
+<area shape="rect" id="node53" href="$impulse__split__kkt__matrix_8hpp.html" title=" " alt="" coords="3596,310,3759,351"/>
+<area shape="rect" id="node55" href="$cost__function_8hpp.html" title=" " alt="" coords="2588,117,2788,143"/>
+<area shape="rect" id="node57" href="$cost__function__data_8hpp.html" title=" " alt="" coords="4407,310,4583,351"/>
+<area shape="rect" id="node63" href="$grid__info_8hpp.html" title=" " alt="" coords="784,407,912,448"/>
+<area shape="rect" id="node64" href="$constraints_8hpp.html" title=" " alt="" coords="1789,109,1923,151"/>
+<area shape="rect" id="node73" href="$constraints__data_8hpp.html" title=" " alt="" coords="147,206,293,247"/>
+<area shape="rect" id="node75" href="$impulse__state__equation_8hpp.html" title=" " alt="" coords="3224,206,3387,247"/>
+<area shape="rect" id="node78" href="$impulse__dynamics_8hpp.html" title=" " alt="" coords="3461,206,3624,247"/>
+<area shape="rect" id="node5" title=" " alt="" coords="3130,704,3185,731"/>
+<area shape="rect" id="node6" title=" " alt="" coords="187,987,245,1013"/>
+<area shape="rect" id="node7" title=" " alt="" coords="3209,704,3261,731"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2063,905,2135,931"/>
+<area shape="rect" id="node9" title=" " alt="" coords="3383,801,3519,842"/>
+<area shape="rect" id="node10" title=" " alt="" coords="3593,801,3729,842"/>
+<area shape="rect" id="node11" title=" " alt="" coords="3023,801,3158,842"/>
+<area shape="rect" id="node12" title=" " alt="" coords="3183,808,3359,835"/>
+<area shape="rect" id="node13" href="$se3_8hpp.html" title=" " alt="" coords="2412,905,2559,931"/>
+<area shape="rect" id="node16" href="$point__contact_8hpp.html" title=" " alt="" coords="3437,697,3568,738"/>
+<area shape="rect" id="node23" href="$surface__contact_8hpp.html" title=" " alt="" coords="3643,697,3789,738"/>
+<area shape="rect" id="node25" href="$contact__status_8hpp.html" title=" " alt="" coords="1314,801,1459,842"/>
+<area shape="rect" id="node26" href="$aligned__vector_8hpp.html" title=" " alt="" coords="1535,897,1673,939"/>
+<area shape="rect" id="node33" href="$robot_8hxx.html" title=" " alt="" coords="4382,808,4535,835"/>
+<area shape="rect" id="node14" title=" " alt="" coords="2301,987,2469,1013"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2493,987,2677,1013"/>
+<area shape="rect" id="node17" href="$point__contact_8hxx.html" title=" " alt="" coords="4057,801,4188,842"/>
+<area shape="rect" id="node18" title=" " alt="" coords="3093,897,3243,939"/>
+<area shape="rect" id="node19" title=" " alt="" coords="3450,897,3585,939"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2837,897,3017,939"/>
+<area shape="rect" id="node21" title=" " alt="" coords="3268,897,3425,939"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1889,987,1954,1013"/>
+<area shape="rect" id="node24" href="$surface__contact_8hxx.html" title=" " alt="" coords="4213,801,4358,842"/>
+<area shape="rect" id="node28" href="$contact__status_8hxx.html" title=" " alt="" coords="1314,897,1459,939"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1546,987,1662,1013"/>
+<area shape="rect" id="node29" title=" " alt="" coords="1193,987,1258,1013"/>
+<area shape="rect" id="node30" title=" " alt="" coords="692,987,753,1013"/>
+<area shape="rect" id="node32" href="$impulse__status_8hxx.html" title=" " alt="" coords="1636,801,1783,842"/>
+<area shape="rect" id="node34" title=" " alt="" coords="4322,905,4497,931"/>
+<area shape="rect" id="node35" title=" " alt="" coords="4521,897,4655,939"/>
+<area shape="rect" id="node36" title=" " alt="" coords="4679,897,4814,939"/>
+<area shape="rect" id="node37" title=" " alt="" coords="3661,897,3803,939"/>
+<area shape="rect" id="node38" title=" " alt="" coords="3827,897,3962,939"/>
+<area shape="rect" id="node39" title=" " alt="" coords="3986,897,4121,939"/>
+<area shape="rect" id="node40" title=" " alt="" coords="4145,897,4297,939"/>
+<area shape="rect" id="node41" title=" " alt="" coords="701,905,779,931"/>
+<area shape="rect" id="node45" href="$split__solution_8hpp.html" title=" " alt="" coords="2059,414,2253,441"/>
+<area shape="rect" id="node49" href="$impulse__split__solution_8hxx.html" title=" " alt="" coords="1821,407,1984,448"/>
+<area shape="rect" id="node44" href="$impulse__split__direction_8hxx.html" title=" " alt="" coords="3240,600,3403,641"/>
+<area shape="rect" id="node48" href="$split__solution_8hxx.html" title=" " alt="" coords="1821,511,2013,537"/>
+<area shape="rect" id="node47" href="$split__direction_8hxx.html" title=" " alt="" coords="1873,607,2069,634"/>
+<area shape="rect" id="node51" href="$impulse__split__kkt__residual_8hxx.html" title=" " alt="" coords="2936,407,3099,448"/>
+<area shape="rect" id="node52" title=" " alt="" coords="857,905,916,931"/>
+<area shape="rect" id="node54" href="$impulse__split__kkt__matrix_8hxx.html" title=" " alt="" coords="3765,407,3928,448"/>
+<area shape="rect" id="node56" href="$cost__function__component__base_8hpp.html" title=" " alt="" coords="2676,206,2852,247"/>
+<area shape="rect" id="node59" href="$split__kkt__residual_8hpp.html" title=" " alt="" coords="2753,503,2895,545"/>
+<area shape="rect" id="node61" href="$split__kkt__matrix_8hpp.html" title=" " alt="" coords="2457,503,2599,545"/>
+<area shape="rect" id="node58" href="$cost__function__data_8hxx.html" title=" " alt="" coords="4344,407,4520,448"/>
+<area shape="rect" id="node60" href="$split__kkt__residual_8hxx.html" title=" " alt="" coords="2769,600,2911,641"/>
+<area shape="rect" id="node62" href="$split__kkt__matrix_8hxx.html" title=" " alt="" coords="2449,600,2591,641"/>
+<area shape="rect" id="node65" href="$constraint__component__base_8hpp.html" title=" " alt="" coords="2031,303,2185,359"/>
+<area shape="rect" id="node66" href="$constraint__component__data_8hpp.html" title=" " alt="" coords="347,689,501,745"/>
+<area shape="rect" id="node71" href="$impulse__constraint__component__base_8hpp.html" title=" " alt="" coords="2368,199,2520,255"/>
+<area shape="rect" id="node68" href="$constraint__component__base_8hxx.html" title=" " alt="" coords="757,496,912,552"/>
+<area shape="rect" id="node67" href="$constraint__component__data_8hxx.html" title=" " alt="" coords="627,793,781,849"/>
+<area shape="rect" id="node69" href="$pdipm_8hpp.html" title=" " alt="" coords="752,600,885,641"/>
+<area shape="rect" id="node70" href="$pdipm_8hxx.html" title=" " alt="" coords="801,697,935,738"/>
+<area shape="rect" id="node72" href="$impulse__constraint__component__base_8hxx.html" title=" " alt="" coords="1241,496,1391,552"/>
+<area shape="rect" id="node74" href="$constraints__data_8hxx.html" title=" " alt="" coords="93,310,237,351"/>
+<area shape="rect" id="node76" href="$se3__jacobian__inverse_8hpp.html" title=" " alt="" coords="5396,801,5575,842"/>
+<area shape="rect" id="node77" href="$se3__jacobian__inverse_8hxx.html" title=" " alt="" coords="5396,897,5575,939"/>
+<area shape="rect" id="node79" href="$impulse__dynamics__data_8hpp.html" title=" " alt="" coords="5513,503,5676,545"/>
+<area shape="rect" id="node80" href="$impulse__dynamics__data_8hxx.html" title=" " alt="" coords="5513,600,5676,641"/>
+</map>
